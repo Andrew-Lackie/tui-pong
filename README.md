@@ -3,7 +3,7 @@ Terminal pong game written using ncurses in C++.
 ![Pong](img/pong.png)
 
 ## Installation
-First clone the repo, then run `make`.
+First clone the repo, run `make`, and `./pong` to play.
 
 ## Left Player
 UP: 'q'
