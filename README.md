@@ -9,8 +9,10 @@ First clone the repo, then run `make`.
 
 ## Left Player
 UP: 'q'
+
 DOWN: 'a'
 
 ## Right Player
 UP: 'p'
+
 DOWN: ';'
